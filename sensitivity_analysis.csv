@@ -1,0 +1,9 @@
+test_type,scenario,batter_top10_overlap,batter_top5_overlap,batter_rank_spearman_common,bowler_top10_overlap,bowler_top5_overlap,bowler_rank_spearman_common,batter_rank1,bowler_rank1
+Pressure definition,RRR 9.0 / death 5,9,3,0.6833333333333333,9,5,0.9333333333333332,Suryakumar Yadav,Sufiyan Muqeem
+Pressure definition,RRR 11.0 / death 5,7,3,0.3214285714285715,8,5,0.9285714285714287,Sai Sudharsan,Mohammad Nawaz
+Pressure definition,RRR 10.0 / death 4,9,3,0.38333333333333336,8,4,0.7619047619047621,Shashank Singh,Haider Ali
+Scoring weights,Equal weights,10,4,0.8181818181818182,8,4,0.8571428571428572,Reeza Hendricks,Mohammad Nawaz
+Scoring weights,Outcome heavy,9,4,0.7333333333333334,7,5,0.9642857142857145,Jacob Bethell,Mohammad Nawaz
+Scoring weights,Delta heavy,8,4,0.6666666666666669,9,5,0.9833333333333333,Jacob Bethell,Mohammad Nawaz
+Eligibility threshold,40 balls / 5 innings,8,4,1.0,8,4,1.0,Cooper Connolly,Mohammad Nawaz
+Eligibility threshold,100 balls / 12 innings,8,3,1.0,5,4,0.9999999999999999,Reeza Hendricks,Mohammad Nawaz

@@ -1,0 +1,27 @@
+{
+  "source_ball_rows": 200999,
+  "analysis_deliveries": 193988,
+  "analysis_matches": 837,
+  "IPL_matches": 367,
+  "T20I_matches": 470,
+  "date_min": "2022-01-22",
+  "date_max": "2026-11-01",
+  "eligible_batters_60_balls_8_innings": 251,
+  "eligible_bowlers_60_balls_8_innings": 236,
+  "bat_pressure_delivery_pct": 42.25,
+  "bowl_pressure_delivery_pct": 50.28,
+  "pressure_definition": "death = final five scheduled/revised overs; chase RRR >=10; collapse = >=3 wickets lost in first 30% (maximum six overs) OR >=5 wickets lost before 75% of innings; clutch chase = <=30 balls and <=50 runs remaining; bowling additionally includes partnerships >=50",
+  "correction": "Dismissal counts used for batting average and pressure average are keyed by match format and player ID to avoid mixing IPL and T20I dismissal totals.",
+  "sensitivity_summary": {
+    "batter_top10_overlap_range_pressure_and_weight_tests": [
+      7,
+      10
+    ],
+    "bowler_top10_overlap_range_pressure_and_weight_tests": [
+      5,
+      9
+    ],
+    "bowler_rank1_stable_across_all_pressure_threshold_tests": false,
+    "batter_rank1_stable_across_tests": false
+  }
+}
